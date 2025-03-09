@@ -25,6 +25,6 @@
 
 ## Publishing
 ### [02_HTML](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/02_html)
-### [03_CSS]
+### [03_CSS](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/03_css)
 
 ---
