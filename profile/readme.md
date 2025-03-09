@@ -23,5 +23,8 @@
 ## Language
 ### [01_Java](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/01_java)
 
-## 🧑‍🤝‍🧑Language🧑‍🤝‍🧑
+## Publishing
+### [02_HTML](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/02_html)
+### [03_CSS]
+
 ---
