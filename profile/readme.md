@@ -29,4 +29,7 @@
 
 ## API
 ### [04_Servlet](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/04_servlet)
+
+## Spring Framework
+### [05-01_Spring(core)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-01_spring-core)
 ---
