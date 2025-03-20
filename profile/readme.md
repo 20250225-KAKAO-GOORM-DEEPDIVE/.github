@@ -33,4 +33,7 @@
 ## Spring Framework
 ### [05-01_Spring(core)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-01_spring-core)
 ### [05-02_Spring(WebMVC)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-02_spring-webmvc)
+
+## DBMS
+### [06_MySQL](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/06_mysql)
 ---
