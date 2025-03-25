@@ -41,5 +41,5 @@
 ### [06_MySQL](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/06_mysql)
 
 ## ORM
-### [07_JPA]()
+### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
 ---
