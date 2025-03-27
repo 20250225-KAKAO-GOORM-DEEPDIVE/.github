@@ -42,4 +42,7 @@
 
 ## ORM
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
+
+## Test Framework
+### [etc_Junit]()
 ---
