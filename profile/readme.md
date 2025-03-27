@@ -44,5 +44,5 @@
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
 
 ## Test Framework
-### [etc_Junit]()
+### [etc_Junit](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_Junit)
 ---
