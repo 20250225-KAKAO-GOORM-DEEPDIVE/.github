@@ -20,29 +20,30 @@
 ---
 ## 📖수업내용📖
 > 수업 내용은 이 곳에 올려두겠습니다.
-## Language
+## 🎎Language🎎
 ### [01_Java](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/01_java)
+---
 
-## Publishing
+## 🫵Publishing🫵
 ### [02_HTML](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/02_html)
 ### [03_CSS](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/03_css)
-
-## API
+---
+## 🍎API🍎
 ### [04_Servlet](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/04_servlet)
-
-## Spring Framework
+---
+## 🍀Spring Framework🍀
 ### [05-01_Spring(core)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-01_spring-core)
 ### [05-02_Spring(WebMVC)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-02_spring-webmvc)
-
-## Authentication
+---
+## ㊙️Authentication㊙️
 ### [05-03_SpringSecurity](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-03_spring-security)
-
-## DBMS
+---
+## 📅DBMS📅
 ### [06_MySQL](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/06_mysql)
-
-## ORM
+---
+## 🍁ORM🍁
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
-
-## Test Framework
+---
+## 🧪Test Framework🧪
 ### [etc_Junit](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_Junit)
 ---
