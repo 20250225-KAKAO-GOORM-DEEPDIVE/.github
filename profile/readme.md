@@ -19,7 +19,7 @@
 
 ---
 ## 📖수업내용📖
-> 수업 내용은 이 곳에 올려두겠습니다.
+> 수업 소스코드는 이 곳에 올려두겠습니다.
 ## 🎎Language🎎
 ### [01_Java](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/01_java)
 ---
