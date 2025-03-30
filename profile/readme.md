@@ -35,6 +35,9 @@
 ### [05-01_Spring(core)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-01_spring-core)
 ### [05-02_Spring(WebMVC)](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-02_spring-webmvc)
 ---
+## 🪗Architeture🪗
+### [08_MSA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/08_MSA)
+
 ## ㊙️Authentication㊙️
 ### [05-03_SpringSecurity](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/05-03_spring-security)
 ---
