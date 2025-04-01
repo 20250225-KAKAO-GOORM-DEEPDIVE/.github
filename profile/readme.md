@@ -22,7 +22,7 @@
 > 수업 소스코드는 이 곳에 올려두겠습니다.
 ## 🎎Language🎎
 ### [01_Java](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/01_java)
-### [09_JavaScript]()
+### [09_JavaScript](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/09_JavaScript)
 ---
 
 ## 🫵Publishing🫵
