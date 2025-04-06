@@ -46,7 +46,7 @@
 ---
 
 ## 📚Library📚
-### [10_React.js]()
+### [10_React.js](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/11_React.js)
 
 ---
 
