@@ -58,7 +58,7 @@
 ---
 ## 🍁ORM && SQL Mapper🍁
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
-### [etc_MyBatis]()
+### [etc_MyBatis](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_MyBatis)
 ---
 ## 🧪Test Framework🧪
 ### [etc_Junit](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_Junit)
