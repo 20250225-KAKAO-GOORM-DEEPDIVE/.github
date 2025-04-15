@@ -56,7 +56,7 @@
 ## 📅DBMS📅
 ### [06_MySQL](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/06_mysql)
 ---
-## 🍁ORM && SQL Mapper🍁
+## 🍁ORM & SQL Mapper🍁
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
 ### [etc_MyBatis](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_MyBatis)
 ---
