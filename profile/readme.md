@@ -19,7 +19,7 @@
 
 ---
 ## 🔥2차 팀 스터디🔥
-| [1조](https://github.com/GOORM-DEEPDIVE-second-study) | [2조](https://github.com/1seok2jo) | [3조](https://github.com/GOORM-DEEPDIVE-SamSamHaJo) | [4조](https://github.com/goorm-incoding) | [5조](https://github.com/2025-GOORM-DEEPDIVE-Apr) | [6조](https://github.com/deepdiveTeamstudy)|
+| <a href="https://github.com/GOORM-DEEPDIVE-second-study" target="_blank">1조</a> | <a href="https://github.com/1seok2jo" target="_blank">2조</a> | <a href="https://github.com/GOORM-DEEPDIVE-SamSamHaJo" target="_blank">3조</a> | <a href="https://github.com/goorm-incoding" target="_blank">4조</a> | <a href="https://github.com/2025-GOORM-DEEPDIVE-Apr" target="_blank">5조</a> | <a href="https://github.com/deepdiveTeamstudy" target="_blank">6조</a> |
 |---|---|---|---|---|---|
 
 ---
