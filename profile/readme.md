@@ -76,6 +76,7 @@
 ### [07_JPA](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/07_JPA)
 ### [etc_MyBatis](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/etc_MyBatis)
 
+---
 ## ☁️CI/CD☁️
 ### [15_Cloud](https://github.com/20250225-KAKAO-GOORM-DEEPDIVE/15_Cloud)
 ---
